@@ -1,0 +1,51 @@
+{
+    "admin": {
+        "username": "admin",
+        "role": "Admin",
+        "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "last_login": "2025-01-25T12:38:57.354598",
+        "remember_token": "hRdqsRimikJfYrH4ve2l8rdN77GGdqm2fHcQFf_11EE"
+    },
+    "testuser": {
+        "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "role": "User",
+        "last_login": null,
+        "remember_token": null
+    },
+    "user": {
+        "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "role": "User",
+        "last_login": "2025-01-16T01:10:17.986422",
+        "remember_token": null
+    },
+    "manager": {
+        "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "role": "Manager",
+        "last_login": "2025-01-16T01:10:17.992977",
+        "remember_token": null
+    },
+    "testuser2": {
+        "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "role": "User",
+        "last_login": "2025-01-18T05:38:25.157129",
+        "remember_token": null
+    },
+    "admin_user": {
+        "password_hash": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+        "role": "Admin",
+        "last_login": "2025-01-18T05:50:26.541056",
+        "remember_token": null
+    },
+    "normal_user": {
+        "password_hash": "3e7c19576488862816f13b512cacf3e4ba97dd97243ea0bd6a2ad1642d86ba72",
+        "role": "User",
+        "last_login": "2025-01-18T05:50:26.541471",
+        "remember_token": null
+    },
+    "user1": {
+        "password_hash": "481ba4019c9d2710c3386537382592c093ef02bf5b056c30237b3d92b0e19a1d",
+        "role": "User",
+        "last_login": null,
+        "remember_token": null
+    }
+}
